@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kjki/spring-petclinic/_apis/build/status%2Fkjki.pipelines-java?branchName=main)](https://dev.azure.com/kjki/spring-petclinic/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
